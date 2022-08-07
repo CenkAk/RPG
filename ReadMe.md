@@ -3,7 +3,7 @@
 <p> You can use with run.bat </p>
 
 
-<h1> You have to download python to use! </h1>
+<h3> You have to download python to use! </h3>
 
 <ul> <h2> Built With </h2>
 <li>Python</li>
